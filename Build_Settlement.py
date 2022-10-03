@@ -223,11 +223,11 @@ if __name__ == '__main__':
                 attempt += 1
                 continue
             houseX = random.randrange(
-                district_area[0] + 10, district_area[0] + district_area[2] - houseSizeX - 1)
+                district_area[0] + 2, district_area[0] + district_area[2] - houseSizeX - 2)
             houseZ = random.randrange(
-                district_area[1] + 10, district_area[1] + district_area[3] - houseSizeZ - 1)
+                district_area[1] + 2, district_area[1] + district_area[3] - houseSizeZ - 2)
             houseRect = (houseX, houseZ, houseSizeX, houseSizeZ)
-            houseRect_pad = (houseX - 5, houseZ - 5, houseSizeX + 10, houseSizeZ + 10)
+            houseRect_pad = (houseX - 3, houseZ - 3, houseSizeX + 6, houseSizeZ + 6)
 
             overlapsExisting = False
 
