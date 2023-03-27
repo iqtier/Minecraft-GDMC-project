@@ -21,3 +21,6 @@ Once the build area is set and your location in the game is around the build are
 ```python Build_Settlement.py```  
 
 then you can see the settelement is getting build inside the build area.
+
+
+Some Demo: https://www.youtube.com/watch?v=04U_dVQ5OBc&t=157s&ab_channel=IqtierUddinAhammad
