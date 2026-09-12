@@ -1,10 +1,9 @@
 """
 @ Generative Design in Minecraft (GDMC)  Project
-@Comp 4303 ----> Game AI
+@Game AI
 @Project Demo
 @Author:
-    Iqtier U. Ahammad - #201746187
-    Josh Bourden - #200541050
+    Iqtier U. Ahammad 
 """
 
 import interfaceUtils
